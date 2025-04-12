@@ -17,9 +17,9 @@ Atualmente, estou aprendendo mais sobre programação e explorando novas tecnolo
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" height="35" style="margin-right: 15px;"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35" style="margin-right: 15px;"/>
-  </a>
+  </a>-->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="35" height="35" style="margin-right: 15px;" alt="sqlite"/>
   </a>
