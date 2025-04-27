@@ -36,7 +36,7 @@ Atualmente, estou aprendendo mais sobre programação e explorando novas tecnolo
   ##
  
 <div> 
-<a href="https://discord.gg/N6tZYt4d" target="_blank">
+<a href="https://discord.gg//invite/AqrXCn6M" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
 <a href="https://instagram.com/hgdonadon" target="_blank">
